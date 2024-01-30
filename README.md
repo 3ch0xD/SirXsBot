@@ -1,0 +1,2 @@
+# SirXsBot
+SirXs Discord Bot
